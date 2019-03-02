@@ -1,6 +1,6 @@
 # Grading Coffee Quality Graders
 
-I am classifying imported Q-graded coffee beans by their country of origin. 
+Classified imported QIA quality graded coffee beans by their country of origin. in order to dig into Q-graders' grading consistency as a scientific process.
 
 I'm utilizing the dataset created by https://github.com/jldbc/coffee-quality-database
 
